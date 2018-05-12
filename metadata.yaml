@@ -1,0 +1,36 @@
+_repo: Jack-the-Young-CanoemanAn-Eastern-Boy-s-Voyage-in-a-Chinook-Canoe_46289
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Deming, Edwin Willard
+    alias: Eight Bears
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '8411'
+    url: http://www.gutenberg.org/2009/agents/8411
+covers:
+- cover_type: archival
+  image_path: 46289-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British Columbia -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+title: 'Jack the Young Canoeman: An Eastern Boy''s Voyage in a Chinook Canoe'
+url: http://www.gutenberg.org/ebooks/46289
