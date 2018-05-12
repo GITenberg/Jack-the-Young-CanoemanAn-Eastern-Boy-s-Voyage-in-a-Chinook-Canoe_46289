@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46289#Jack-the-Young-CanoemanAn-Eastern-Boy-s-Voyage-in-a-Chinook-Canoe
 gutenberg_issued: '2014-07-15'
 gutenberg_type: Text
 identifiers:
